@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "username":"root",
+    "password":"admin",
+    "databaseName":"onlineclasses",
+    "connectionLimit":10
+}
